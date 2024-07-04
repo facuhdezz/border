@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+h1, h2, h3, h4, p {
+  margin: 0;
+}
+
+body {
+  background: rgb(32,0,33);
+  background: linear-gradient(90deg, rgba(32,0,33,1) 0%, rgba(57,0,59,1) 58%, rgba(86,0,89,1) 100%); 
+}
